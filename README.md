@@ -1,1 +1,19 @@
-# Excel-Tableau-Project
+# Wealth of Nations Data Visualisation
+
+The aim of this project was to analyse how wealth (GDP), life expectancy, and smartphone usage are connected in different countries. I used **Excel** to clean and prepare the data, password protecting the file to ensure data safety.
+
+I then used **Tableau** to create an interactive dashboard that explores these relationships. Tooltips provide additional information for each country. The dashboard includes:
+
+* A world map showing each country's data
+* A scatter plot comparing GDP and life expectancy
+* Tables highlighting the countries with the highest and lowest values for each measure
+
+**Key insights include**:
+* A positive relationship between GDP and life expectancy across countries
+* The wide range of the number of people using smartphones across countries
+
+![image](https://github.com/user-attachments/assets/445155a1-b4d3-4ba4-a405-1f05facd9e09)
+
+This dashboard was originally created during my data analysis training. After a year of further learning and practice, I improved it by focusing on clarity and user experience.
+
+[link to my Tableau Dashboard](https://public.tableau.com/app/profile/lozarta.veizaj/viz/WealthofNations_17118415290690/WealthofNations)
