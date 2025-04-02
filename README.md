@@ -12,7 +12,7 @@ I then used **Tableau** to create an interactive dashboard that explores these r
 * A positive relationship between GDP and life expectancy across countries
 * The wide range of the number of people using smartphones across countries
 
-![image](https://github.com/user-attachments/assets/445155a1-b4d3-4ba4-a405-1f05facd9e09)
+![Screenshot 2025-03-25 205504](https://github.com/user-attachments/assets/f5c9e584-c2d4-43e2-a875-dbe0b8bc711e)
 
 This dashboard was originally created during my data analysis training. After a year of further learning and practice, I improved it by focusing on clarity and user experience.
 
